@@ -1,0 +1,24 @@
+html{
+    background-color: black;
+}
+#cat-photo{
+    width: 100%;
+    border: 5px white solid;
+    
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+#paragraph{
+    color: white;
+    text-align: center;
+}
+
+div{
+    width: 50%;
+    margin: 1em;
+    margin-left: 25%;
+}
