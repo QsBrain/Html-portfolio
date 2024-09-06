@@ -1,0 +1,14 @@
+.yellow-box{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+}
+
+.blue-box{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    left: 3em;
+    bottom: 9em;
+}
